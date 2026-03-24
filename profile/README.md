@@ -2,7 +2,7 @@
   <img src="logo.png" alt="RedAlert-IL" width="120" />
 </p>
 
-<h1 align="center">RedAlert-IL</h1>
+<h1 align="center">רד אלרט ישראל</h1>
 
 <p align="center">
   התרעות צבע אדום בזמן אמת. חינם, לכולם, בכל מקום.
