@@ -42,7 +42,7 @@
 
 ## תמיכה
 
-- שלחו לנו מייל בכתובת [support@red-alerts.co.il](mailto:support@red-alerts.co.il)
+- שלחו לנו מייל בכתובת [support@red-alert.co.il](mailto:support@red-alerts.co.il)
 - [הצטרפו לשרת הדיסקורד שלנו](https://red-alert.co.il/discord)
 
 
